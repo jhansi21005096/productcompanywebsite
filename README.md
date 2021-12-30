@@ -302,11 +302,11 @@ contact us:
 </html>
 ```
 ## OUTPUT:
-Home page:
-![output](C:/Users/jhansi/Documents/djangoprojects/productcompanywebsite/companywebsite/static/img/homeoutput.png)
 
-
-![output](./images/homepage.jpg)
+![GITHUB LOGO](homepage.png)
+![GITHUB LOGO](homepage.png)
+![GITHUB LOGO](homepage.png)
+![GITHUB LOGO](homepage.png)
 
 ## Result:
 
