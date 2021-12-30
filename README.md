@@ -303,7 +303,7 @@ contact us:
 ```
 ## OUTPUT:
 
-![GITHUB LOGO](homepage.png)
+![output](C:\Users\jhansi\Documents\djangoprojects\productcompanywebsite\homeoutput.png)
 ![GITHUB LOGO](homepage.png)
 ![GITHUB LOGO](homepage.png)
 ![GITHUB LOGO](homepage.png)
