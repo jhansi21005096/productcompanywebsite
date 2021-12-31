@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 Home:
     <!DOCTYPE html>
 <html lang="en">
@@ -303,10 +304,10 @@ contact us:
 ```
 ## OUTPUT:
 
-![output](C:\Users\jhansi\Documents\djangoprojects\productcompanywebsite\homeoutput.png)
-![GITHUB LOGO](homepage.png)
-![GITHUB LOGO](homepage.png)
-![GITHUB LOGO](homepage.png)
+![output](homeoutput.png)
+![output](productoutput.png)
+![output](peopleoutput.png)
+![output](contactusoutput.png)
 
 ## Result:
 
